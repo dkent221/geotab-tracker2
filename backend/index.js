@@ -39,7 +39,7 @@ app.get('/api/locations', async (req, res) => {
   }
 });
 
-app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+
 
 // ======================= FRONTEND: public/index.html =======================
 <!-- public/index.html -->
